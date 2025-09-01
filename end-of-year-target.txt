@@ -1,4 +1,5 @@
 Target Akhir Tahun
 - Menguasai Git
 - Menguasai Xpath
-- Menguasa Automation Testing
+- Menguasai Automation Testing Selenium Java
+- Menguasai Automation Testing Mocha Chai
