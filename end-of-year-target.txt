@@ -1,0 +1,4 @@
+Target Akhir Tahun
+- Menguasai Git
+- Menguasai Xpath
+- Menguasa Automation Testing
