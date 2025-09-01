@@ -3,3 +3,4 @@ Target Akhir Tahun
 - Menguasai Xpath
 - Menguasai Automation Testing Selenium Java
 - Menguasai Automation Testing Mocha Chai
+- Menguasai Jenkins
