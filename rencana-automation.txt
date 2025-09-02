@@ -2,3 +2,5 @@ Rencana Automation
 - Fundamental Java
 - Automation Java dengan Gherkin
 - Fundamental Javascript
+- Automation Mocha Chai
+- 
