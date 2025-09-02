@@ -4,3 +4,6 @@ Rencana Automation
 - Fundamental Javascript
 - Automation Mocha Chai
 - Automation Selenium
+- Xpath
+- API Automation
+- Bamboo
