@@ -4,3 +4,4 @@ Rencana Automation
 - Fundamental Javascript
 - Automation Mocha Chai
 - Automation Selenium
+- Konsep Xpath
