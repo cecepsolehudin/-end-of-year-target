@@ -5,3 +5,5 @@ Rencana Automation
 - Automation Mocha Chai
 - Automation Selenium
 - Konsep Xpath
+- API Automation
+- Jenkins
